@@ -1,4 +1,4 @@
 Day 1: introduction to bash and git version control
 Day 2: introduction to HPC
-Day 3: scientific visualization
+#  Day 3: scientific visualization
 Day 4: parallel programming in Chapel
