@@ -1,6 +1,5 @@
-Day 1: introduction to bash and git version control, and maybe Python
+Day 1: introduction to bash and git version control, and maybe Python (great!)
 Day 2: introduction to HPC
 #  Day 3: scientific visualization
 Day 4: parallel programming in Chapel
 Day 5: ???
-
